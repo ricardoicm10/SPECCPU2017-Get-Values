@@ -3,7 +3,7 @@ This is the repository for the python script that gets the value from the txt fi
 
 
 How to use it?
-# main.exe <file.txt> <file.xlsx> <cell> <-t>(optional)
+# main.exe <file.txt> <file.xlsx> <'cell'> <-t>(optional)
 	
 ![image](https://user-images.githubusercontent.com/65380721/187997127-81267ad3-5e6f-4dc2-aeac-975034eb6ad6.png)
  
